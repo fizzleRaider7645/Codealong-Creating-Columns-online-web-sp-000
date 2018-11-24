@@ -79,7 +79,8 @@ img, video, audio {
 
 /*LAYOUT*/
 * {
-  -webkit-box-sizing: border-box
+  -webkit-box-sizing: border-box;
+  -moz-box
   box-sizing: border-box;
 }
 
