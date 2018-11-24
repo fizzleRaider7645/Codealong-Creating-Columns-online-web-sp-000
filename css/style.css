@@ -97,6 +97,7 @@ figcaption {
 .clearfix:after {
   content: ".";
   display: block;
+  clear: bot;
 }
 
 [class*="col-"] {
