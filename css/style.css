@@ -126,7 +126,7 @@ img, video, audio {
 /*SECTIONS*/
 
 header {
-  
+  position: fixed;
 }
 
 section {
